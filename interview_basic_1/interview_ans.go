@@ -1,4 +1,4 @@
-package interview
+package interview_basic_1
 
 import (
 	"errors"
